@@ -3,7 +3,7 @@
 * 🌍  I was born and raised in Los Angeles, California 
 * 👨‍💻  I'm currently working on developing <i>single sign-on connectors</i> at [Clever](http://clever.com)
 * 🚀  My latest project is [ReacTree](http://www.reactree.dev): VSCode's first React Hierarchy Tree Visualizer! 
-* 📚  I wrote an [article](https://medium.com/@michaelbenliyan/developers-guide-to-building-vscode-webview-panel-with-react-and-messages-797981f34013) on how to build a VSCode Webview Panel with React and VSCode Message support, incase you need it. 
+* 📚  I wrote an [article](https://medium.com/@michaelbenliyan/developers-guide-to-building-vscode-webview-panel-with-react-and-messages-797981f34013) on how to build a VSCode Webview Panel with React and VSCode Message support, incase you need it
 * ✉️  You can contact me at [michaelbenliyan@gmail.com](mailto:michaelbenliyan@gmail.com)
 
 ### Skills
