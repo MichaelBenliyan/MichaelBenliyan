@@ -19,6 +19,8 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostregSQL" /></a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/swift/images/swift-og.png" width="36" height="36" alt="Swift" /></a> 
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="36" height="36" alt="Ruby" /></a>  
 </p> 
 
 ### Socials
