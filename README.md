@@ -1,5 +1,4 @@
-### Yo Yo 🤙 
-### My name is Mike Benliyan
+### Yo Yo 🤙 I'm Mike!
 ============================== 
 * 🌍  I'm born and raised in Los Angeles, California 
 * 👨‍💻  I'm currently working on developing <i>single sign-on connectors</i> at [Clever](http://clever.com)
